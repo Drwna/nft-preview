@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknft_ship"]=self["webpackChunknft_ship"]||[]).push([[8],{61008:function(t,s,n){n.r(s),n.d(s,{default:function(){return r}});var a=function(){var t=this,s=t.$createElement,n=t._self._c||s;return n("Layout",{attrs:{title:"账号注销","has-nav":!1}},[n("div",{staticClass:"logout"},[n("p",[t._v(" 注销吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦 注销吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦 注销吧啦吧啦吧啦吧啦吧啦吧啦吧啦吧啦 ")]),n("button",{staticClass:"submit"},[t._v("确认注销")])])])},e=[],u={name:"LogoutView"},i=u,l=n(1001),c=(0,l.Z)(i,a,e,!1,null,"a426cb8a",null),r=c.exports}}]);
+//# sourceMappingURL=8-legacy.5b82b7d7.js.map
